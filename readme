@@ -4,5 +4,6 @@ TODO:
 implement movement
 implement check
 implement castling
-implement EP
+implement en passant
+implement capture bar
 
